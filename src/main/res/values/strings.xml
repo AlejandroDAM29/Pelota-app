@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PelotaJava</string>
+    <string name="dificultad">Please choose starting level:</string>
+    <string name="facil">Easy</string>
+    <string name="medio">Standard</string>
+    <string name="dificil">Dificult</string>
+    <string name="Ayuda">Help</string>
+    <string name="puntuacion">Score:0</string>
+    <string name="texto_ayuda">
+
+        The object of the game is to prevent the ball from falling to the ground and
+        exits the sides of the screen. For this you must
+        touch the ball with your finger.
+        \nTo push the ball in a specific direction, press on the screen at the opposite direction.
+        \n
+        Depending on the level of difficulty chosen, you will get more or less points per touch:
+        \n - Easy: 1 point per touch.
+        \n - Medium: 2 points per touch.
+        \n - Hard: 3 points per touch.
+        \n\n
+        You can get it!
+        \n\n
+        Creator: Alejandro Expósito Ortiz
+        \n
+        Version: 1.0
+        \n
+        Creation date: 23/02/2021
+    </string>
+    <string name="Volver">Return</string>
+    <string name="Mensaje_emergente">Current game points: </string>
+</resources>

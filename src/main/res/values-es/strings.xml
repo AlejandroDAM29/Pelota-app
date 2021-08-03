@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PelotaJava</string>
+    <string name="dificultad">Por favor, escoge nivel:</string>
+    <string name="facil">Fácil</string>
+    <string name="medio">Normal</string>
+    <string name="dificil">Difícil</string>
+    <string name="Ayuda">Ayuda</string>
+    <string name="puntuacion">Puntuacion:0</string>
+    <string name="texto_ayuda">
+        El objetivo del juego es evitar que la pelota caiga al suelo y que
+        salga por los laterales de la pantalla. Para ello debes
+        tocar la pelota con el dedo.
+        \nPara empujar la pelota en una dirección concreta, pulsaremos en la pelota en
+        dirección contraria.
+        \n\n
+        Según el nivel de dificultad elegido obtendrás más o menos puntos por toque:
+        \n - Fácil: 1 punto por toque.
+        \n - Medio: 2 puntos por toque.
+        \n - Difícil: 3 puntos por toque.
+        \n\n
+        ¡MUCHO ÁNIMO!
+        \n\n
+        Creador: Alejandro Expósito Ortiz
+        \n
+        Versión: 1.0
+        \n
+        Fecha de la creación: 23/02/2021
+    </string>
+    <string name="Volver">Volver</string>
+    <string name="Mensaje_emergente">Puntos de partida actual: </string>
+</resources>
